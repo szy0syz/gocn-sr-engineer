@@ -40,6 +40,12 @@
 
 - 文本 -> 编译 -> 二进制可执行文件
 
+<img width="1072" alt="image" src="https://user-images.githubusercontent.com/10555820/210329183-29e59593-d0f0-4479-8d11-bdf32ed3ae39.png">
+<img width="1302" alt="image" src="https://user-images.githubusercontent.com/10555820/210329256-4b1eafed-9f73-48da-b052-86d8967176d2.png">
+<img width="1271" alt="image" src="https://user-images.githubusercontent.com/10555820/210329302-b90b1e3a-88cc-4468-9545-62d34d5cbec3.png">
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/10555820/210329332-621ff16c-93b3-4851-8197-53c3f0b8ce75.png">
+<img width="1115" alt="image" src="https://user-images.githubusercontent.com/10555820/210329358-a88d0255-74d6-402f-a4b2-a7d2411b52e2.png">
+
 ## 调度组件与调度循环
 
 - Go的调度流程本质上是一个生产-消费流程

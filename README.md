@@ -44,10 +44,12 @@
 
 - Go的调度流程本质上是一个生产-消费流程
 
-pic-生产-消费图
+<img width="1452" alt="image" src="https://user-images.githubusercontent.com/10555820/210328684-fb2b0bad-332b-47f2-9296-8cf0d031b708.png">
 
-pic-overview-全局图
+<img width="1378" alt="image" src="https://user-images.githubusercontent.com/10555820/210328730-7226b2a2-7020-4432-991a-f7c5541132c6.png">
 
-pic-goroutine生产端
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/10555820/210328791-66fec85d-740b-4b45-b366-1fd6cdd95647.png">
+
+<img width="1275" alt="image" src="https://user-images.githubusercontent.com/10555820/210328858-1cb13ad6-9bc8-4c1d-8f2b-fe96af666233.png">
 
 > 01 54:35
